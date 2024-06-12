@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = D:/Mytech/IDE_workspace/ksachin5136git/DVC-demo-repo/DVC-demo/myremoteDataLocation
